@@ -74,16 +74,16 @@ Other Topics Discussed:
 
 PyPI Modules Worth Mentioning:
 
-[click][10] - create beautiful command line interfaces
-[colorama][11] - terminal text color module
-[keyring][12] - provides easy acces to system keyring services
-[tqdm][13] - fast, extensible progress bar for loops and CLI
+- [click][10] - create beautiful command line interfaces
+- [colorama][11] - terminal text color module
+- [keyring][12] - provides easy acces to system keyring services
+- [tqdm][13] - fast, extensible progress bar for loops and CLI
 
 Builtin Modules Worth Metioning:
 
-[argparse][14] - create ugly functional command line interfaces
-[venv][15] - module to create and manage virtual environments
-[zipfile][16] - create and manipulate Zip archive files
+- [argparse][14] - create ugly functional command line interfaces
+- [venv][15] - module to create and manage virtual environments
+- [zipfile][16] - create and manipulate Zip archive files
 
 
 [0]: https://xkcd.com/1319/
